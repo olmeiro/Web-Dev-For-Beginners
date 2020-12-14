@@ -6,16 +6,16 @@ You will need to reference the following learn module to complete the quiz:
 
 1. [You can write CSS directly in the head section of your HTML file]
 
-- [ ] [true]
+- [x] [true]
 - [ ] [false]
 
 1. [It's always necessary to include CSS in your app]
 
 - [ ] [true]
 - [ ] [false]
-- [ ] [false, but if you want it to look good you need CSS]
+- [x] [false, but if you want it to look good you need CSS]
 
 1. [Which browser tool can be used to inspect CSS?]
-- [ ] [Elements]
+- [x] [Elements]
 - [ ] [Styles]
 - [ ] [Network]
