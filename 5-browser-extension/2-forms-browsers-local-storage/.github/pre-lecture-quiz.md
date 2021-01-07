@@ -4,7 +4,7 @@ Complete this quiz in class
 
 1. APIs stand for
 
-- [ ] Application Programming Interfaces
+- [x] Application Programming Interfaces
 - [ ] A Programming Inference
 - [ ] Anti Proven Intentions
 
@@ -12,9 +12,9 @@ Complete this quiz in class
 
 - [ ] Another web-connected asset
 - [ ] A database
-- [ ] Either of the above
+- [x] Either of the above
 
 3. Anyone can create an API 
 
-- [ ] true
+- [x] true
 - [ ] false
