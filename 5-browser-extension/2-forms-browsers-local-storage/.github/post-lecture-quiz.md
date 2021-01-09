@@ -2,15 +2,15 @@
 
 1. LocalStorage is cleared every time you close the browser window
 
-- [ ] true
+- [x] true
 - [ ] false
 
 2. The main browser window controls a browser's extension's LocalStorage
 
-- [ ] true
+- [x] true
 - [ ] false
 
 3. REST in an API context stands for
-- [ ] Representational State Transfer
+- [x] Representational State Transfer
 - [ ] Returning State Tasks
 - [ ] Rendering State To Browser
