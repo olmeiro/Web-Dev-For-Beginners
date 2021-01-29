@@ -2,17 +2,17 @@
 
 1. To get a better view of your site's performance, clear its cache and reload in the profiler
 
-- [ ] true
+- [x] true
 - [ ] false
 
 2. Browser extensions are inherently performant
 
 - [ ] true
-- [ ] false
+- [x] false
 
 3. Analyze the following for performance bottlenecks
    
 - [ ] DOM traversals
 - [ ] JavaScript optimizations
 - [ ] Asset management
-- [ ] All the above
+- [x] All the above
