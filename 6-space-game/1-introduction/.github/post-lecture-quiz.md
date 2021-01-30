@@ -2,16 +2,16 @@
 
 1. Classes rely on inheritance to ascribe to behaviors
 
-- [ ] true
+- [x] true
 - [ ] false
 
 2. Composition is a preferred design pattern for game objects
 
 - [ ] true
-- [ ] false
+- [x] false
 
 3. Pub/Sub stands for:
    
-- [ ] Publish/Subscribe
+- [x] Publish/Subscribe
 - [ ] Print/Staple
 - [ ] Publish/Sanitize
