@@ -3,16 +3,16 @@
 1. HTML templates are part of the DOM by default
 
 - [ ] true
-- [ ] false
+- [x] false
 
 2. Which part of the URL is needed for routing?
 
-- [ ] window.location.pathname
+- [x] window.location.pathname
 - [ ] window.location.origin
 - [ ] both
 
 3. What's the name of the event triggered when calling the `history.pushState()` function?
    
-- [ ] `pushstate`
+- [x] `pushstate`
 - [ ] `popstate`
 - [ ] `navigate`
